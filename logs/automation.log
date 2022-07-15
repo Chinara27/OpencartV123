@@ -1,0 +1,22 @@
+13:21:42.335 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:21:42.957 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:21:43.170 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:21:43.280 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:21:43.753 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:21:53.797 [main] ERROR testCases.TC_002_Login - Login Failed 
+13:28:10.114 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+13:28:10.915 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:28:12.035 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:28:12.547 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:28:12.741 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:28:12.870 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:28:13.420 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:28:13.487 [main] INFO  testCases.TC_002_Login - Login Success 
+13:29:55.039 [main] INFO  testCases.TC_002_Login - Starting TC_002_Login 
+13:29:55.821 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:29:56.460 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:29:56.983 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:29:57.255 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:29:57.408 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:29:57.870 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:29:57.941 [main] INFO  testCases.TC_002_Login - Login Success 
